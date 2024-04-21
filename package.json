@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "\"my first server\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "textexpress"
+  },
+  "author": "\"john rambo\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "gsap": "^3.12.5",
+    "nodeman": "^1.1.2",
+    "three": "^0.163.0"
+  }
+}
