@@ -1,0 +1,37 @@
+body,html{
+    margin:0;
+}
+
+.nav{
+    position: absolute;
+    color:white;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+}
+.nav div{
+    display: flex;
+
+    align-items: center;
+}
+.mylist{
+    font-size: 20px;
+}
+.head{    font-size: 40px;text-decoration: underline;}
+
+li{
+    margin-right:10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.welcome{
+    width: 100%;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 579px;
+    display: flex;
+    justify-content: center;
+    font-size: 35;
+}
